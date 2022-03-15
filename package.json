@@ -6,7 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "vue": "^3.0.0-rc.1"
   },
